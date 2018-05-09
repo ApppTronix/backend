@@ -138,7 +138,7 @@ def make_sure_path_exists(path):
 
 @app.route('/schedule', methods=['GET'])
 @requires_auth
-def getTimeTable():
+def getTimeTable(action):
     print('auth worked')
     current_user = user_datastore.find_user(userID=payload['userID'])
     ttcollections = mydb['timetable']
