@@ -1,0 +1,42 @@
+2019-11-23 13:56:50,041 INFO app (666): {'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWZyZXNoU2VjcmV0IjozMDE3MzYyNDYwLCJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIn0.Dv84SYBydVoytq-pKjzkw0PE-J9t5Vo0ZIppE_Fqj1c'}
+2019-11-23 13:56:50,041 INFO app (666): {'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWZyZXNoU2VjcmV0IjozMDE3MzYyNDYwLCJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIn0.Dv84SYBydVoytq-pKjzkw0PE-J9t5Vo0ZIppE_Fqj1c'}
+2019-11-23 13:56:50,044 INFO app (669): 3017362460
+2019-11-23 13:56:50,044 INFO app (669): 3017362460
+2019-11-23 13:56:50,169 INFO app (79): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDEwLCJleHAiOjE1NzQ1MTgwMTB9.1kS_7fT8Aa2M9386LtFvERu1IxcIVsJy4V8HyIAKzAc
+2019-11-23 13:56:50,169 INFO app (79): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDEwLCJleHAiOjE1NzQ1MTgwMTB9.1kS_7fT8Aa2M9386LtFvERu1IxcIVsJy4V8HyIAKzAc
+2019-11-23 13:57:08,394 INFO app (666): {'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWZyZXNoU2VjcmV0IjozMDE3MzYyNDYwLCJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIn0.Dv84SYBydVoytq-pKjzkw0PE-J9t5Vo0ZIppE_Fqj1c'}
+2019-11-23 13:57:08,394 INFO app (666): {'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWZyZXNoU2VjcmV0IjozMDE3MzYyNDYwLCJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIn0.Dv84SYBydVoytq-pKjzkw0PE-J9t5Vo0ZIppE_Fqj1c'}
+2019-11-23 13:57:08,403 INFO app (669): 3017362460
+2019-11-23 13:57:08,403 INFO app (669): 3017362460
+2019-11-23 13:57:08,516 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,516 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,520 INFO app (305): auth worked
+2019-11-23 13:57:08,520 INFO app (305): auth worked
+2019-11-23 13:57:08,524 INFO app (319): {'results': [{'testDate': 20171205.0, 'weightage': 10.0, 'title': 'Quiz 2', 'portions': 'This is the portions for the first test', 'course': 'EE243'}]}
+2019-11-23 13:57:08,524 INFO app (319): {'results': [{'testDate': 20171205.0, 'weightage': 10.0, 'title': 'Quiz 2', 'portions': 'This is the portions for the first test', 'course': 'EE243'}]}
+2019-11-23 13:57:08,655 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,655 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,663 INFO app (567): {'results': [{'name': 'EE243', 'description': 'Mathematics for electrical engineering', 'regIDs': ['15EE244', '15EE245', '15EE246'], 'sems': [7.0, 8.0]}, {'name': 'EE244', 'description': 'Intro to electrical engineering', 'regIDs': ['15EE244', '15EE245', '15EE246'], 'sems': [7.0, 8.0]}]}
+2019-11-23 13:57:08,663 INFO app (567): {'results': [{'name': 'EE243', 'description': 'Mathematics for electrical engineering', 'regIDs': ['15EE244', '15EE245', '15EE246'], 'sems': [7.0, 8.0]}, {'name': 'EE244', 'description': 'Intro to electrical engineering', 'regIDs': ['15EE244', '15EE245', '15EE246'], 'sems': [7.0, 8.0]}]}
+2019-11-23 13:57:08,842 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,842 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,847 INFO app (194): auth worked
+2019-11-23 13:57:08,847 INFO app (194): auth worked
+2019-11-23 13:57:08,852 INFO app (210): {'results': [{'date': 20181029.0, 'presentIDs': '', 'desc': 'this', 'time': 525.0, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181029, 'presentIDs': '', 'desc': 'this lo', 'time': 132, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181030, 'presentIDs': '15EE24415EE24515EE246', 'desc': 'rs', 'time': 1023, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181030, 'presentIDs': '', 'desc': 'thie', 'time': 1039, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181030, 'presentIDs': '15EE24515EE246', 'desc': 'thus', 'time': 1728, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20191123, 'desc': 'test', 'presentIDs': '', 'time': 655, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20191123, 'desc': 'test', 'presentIDs': '', 'time': 655, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}]}
+2019-11-23 13:57:08,852 INFO app (210): {'results': [{'date': 20181029.0, 'presentIDs': '', 'desc': 'this', 'time': 525.0, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181029, 'presentIDs': '', 'desc': 'this lo', 'time': 132, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181030, 'presentIDs': '15EE24415EE24515EE246', 'desc': 'rs', 'time': 1023, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181030, 'presentIDs': '', 'desc': 'thie', 'time': 1039, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20181030, 'presentIDs': '15EE24515EE246', 'desc': 'thus', 'time': 1728, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20191123, 'desc': 'test', 'presentIDs': '', 'time': 655, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}, {'date': 20191123, 'desc': 'test', 'presentIDs': '', 'time': 655, 'course': 'EE243', 'shortName': 'Maths for Trical Engg'}]}
+2019-11-23 13:57:08,977 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,977 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:08,980 INFO app (238): auth worked
+2019-11-23 13:57:08,980 INFO app (238): auth worked
+2019-11-23 13:57:08,983 INFO app (252): {'results': [{'submissionDate': 20170930.0, 'weightage': 5.0, 'title': 'Assignent 1', 'description': 'This is the first assignment that will be displayed for the piurpose of lare ipsum dolor sit amet', 'course': 'EE243'}, {'description': 'hhh', 'submissionDate': 20170614.0, 'title': 'fgj', 'weightage': 10.0, 'course': 'EE243'}]}
+2019-11-23 13:57:08,983 INFO app (252): {'results': [{'submissionDate': 20170930.0, 'weightage': 5.0, 'title': 'Assignent 1', 'description': 'This is the first assignment that will be displayed for the piurpose of lare ipsum dolor sit amet', 'course': 'EE243'}, {'description': 'hhh', 'submissionDate': 20170614.0, 'title': 'fgj', 'weightage': 10.0, 'course': 'EE243'}]}
+2019-11-23 13:57:09,148 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:09,148 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:09,154 INFO app (531): []
+2019-11-23 13:57:09,154 INFO app (531): []
+2019-11-23 13:57:23,410 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:23,410 INFO app (66): eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlYWNoZXJAZ21haWwuY29tIiwiaWF0IjoxNTc0NTE3NDI4LCJleHAiOjE1NzQ1MTgwMjh9.i7F11tEjdlf0iakYsyQlBPkHeBzJS7bMoqbTCoNDUiY
+2019-11-23 13:57:23,416 INFO app (498): JPEG_20191123_192716_6463432447963206060.jpg
+2019-11-23 13:57:23,416 INFO app (498): JPEG_20191123_192716_6463432447963206060.jpg
+2019-11-23 13:57:31,881 INFO app (504): creating directory
+2019-11-23 13:57:31,881 INFO app (504): creating directory
